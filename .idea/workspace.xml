@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f4a29e1-9903-48fe-acb8-7d8bacaecc33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f4a29e1-9903-48fe-acb8-7d8bacaecc33" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559517594804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559518240162" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,7 +135,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
